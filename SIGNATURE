@@ -1,0 +1,44 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 217ea2cc0e8176ebffe1a80ee019c15dc1c83e5a Changes
+SHA1 88ba4ae983df43958f32bdf978068b27682c57f1 MANIFEST
+SHA1 ff6e3efb383f197d294867957e5a25fb0271182a META.yml
+SHA1 9d572c34c02aad0ca2aa6c409db9006039c1c857 Makefile.PL
+SHA1 e81a0eb76fe00ee692c9d41fb08cebafa7860160 README
+SHA1 6b9818ecec06266d8ccbb9aa9e5c8001c821e23d etc/callback_before_localization.diff
+SHA1 82caf70842933c501b8d1e91562c1bbaaa1dac49 html/Callbacks/LocalDateHeader/Elements/ShowMessageHeaders/BeforeLocalization
+SHA1 84904afd4fd88d227ba7acc09535bc186e0e3965 html/Callbacks/LocalDateHeader/Ticket/Elements/ShowMessageHeaders/BeforeLocalization
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 40df6f8d889b52eef379f04af6227f9302b23bf9 inc/Module/Install/RTx.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 c47142a3ac864fbe03d00be390d2ae9be7872f82 lib/RT/Extension/LocalDateHeader.pm
+SHA1 d3e6673c6ef0432c21ae5c45552059a7d6d56143 xt/99changes.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+iEYEARECAAYFAlLLOXwACgkQ0+gKWp5CJQrkXACfZKsdIZcq7pJyEDB89LQ/85Wu
+4Y8AoKOnquTnxYIfHRyNa2u5HgX1zg4K
+=925N
+-----END PGP SIGNATURE-----
