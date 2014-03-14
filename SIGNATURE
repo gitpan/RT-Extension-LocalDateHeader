@@ -14,11 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 217ea2cc0e8176ebffe1a80ee019c15dc1c83e5a Changes
-SHA1 88ba4ae983df43958f32bdf978068b27682c57f1 MANIFEST
-SHA1 ff6e3efb383f197d294867957e5a25fb0271182a META.yml
+SHA1 7e741c21e8774f439655caa6a76e4748e6bcb4fe Changes
+SHA1 1457cad1aab3a9c13a87da12c905ab9abfd93b40 MANIFEST
+SHA1 305f3dee6673f323306b273e159f7389ae7fe9a5 META.yml
 SHA1 9d572c34c02aad0ca2aa6c409db9006039c1c857 Makefile.PL
-SHA1 e81a0eb76fe00ee692c9d41fb08cebafa7860160 README
+SHA1 95e67e502d2d4e8a85bb8a4d4df9497ff4dc2a07 README
+SHA1 8fa2da862096848e81981877d57416372bd4d3bb doc/images/extension.png
+SHA1 22f0258d89ba41f802547a7da37045e751879125 doc/images/noextension.png
 SHA1 6b9818ecec06266d8ccbb9aa9e5c8001c821e23d etc/callback_before_localization.diff
 SHA1 82caf70842933c501b8d1e91562c1bbaaa1dac49 html/Callbacks/LocalDateHeader/Elements/ShowMessageHeaders/BeforeLocalization
 SHA1 84904afd4fd88d227ba7acc09535bc186e0e3965 html/Callbacks/LocalDateHeader/Ticket/Elements/ShowMessageHeaders/BeforeLocalization
@@ -28,17 +30,17 @@ SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
 SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
 SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
 SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
-SHA1 40df6f8d889b52eef379f04af6227f9302b23bf9 inc/Module/Install/RTx.pm
+SHA1 3f9e335a7fd57b7e27d7f6e4bdc7076dcc6dfc8c inc/Module/Install/RTx.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
 SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 c47142a3ac864fbe03d00be390d2ae9be7872f82 lib/RT/Extension/LocalDateHeader.pm
-SHA1 d3e6673c6ef0432c21ae5c45552059a7d6d56143 xt/99changes.t
+SHA1 a2cb3ac75cbdcc9063b75fe99429feb0fa57bc26 lib/RT/Extension/LocalDateHeader.pm
+SHA1 b43260bea2420eb7c263187a512f9796e7facac7 xt/99changes.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (Darwin)
 Comment: GPGTools - http://gpgtools.org
 
-iEYEARECAAYFAlLLOXwACgkQ0+gKWp5CJQrkXACfZKsdIZcq7pJyEDB89LQ/85Wu
-4Y8AoKOnquTnxYIfHRyNa2u5HgX1zg4K
-=925N
+iEYEARECAAYFAlMiRQcACgkQ0+gKWp5CJQojNwCgo/fKWxnr65IvxjmcRUn2dTeX
+EpEAoNnzizBNDbQLAy14+WMupaid15au
+=VpU/
 -----END PGP SIGNATURE-----

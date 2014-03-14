@@ -1,4 +1,6 @@
 Changes
+doc/images/extension.png
+doc/images/noextension.png
 etc/callback_before_localization.diff
 html/Callbacks/LocalDateHeader/Elements/ShowMessageHeaders/BeforeLocalization
 html/Callbacks/LocalDateHeader/Ticket/Elements/ShowMessageHeaders/BeforeLocalization
