@@ -14,33 +14,35 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 7e741c21e8774f439655caa6a76e4748e6bcb4fe Changes
-SHA1 1457cad1aab3a9c13a87da12c905ab9abfd93b40 MANIFEST
-SHA1 305f3dee6673f323306b273e159f7389ae7fe9a5 META.yml
-SHA1 9d572c34c02aad0ca2aa6c409db9006039c1c857 Makefile.PL
-SHA1 95e67e502d2d4e8a85bb8a4d4df9497ff4dc2a07 README
+SHA1 b3f41fc0dd05342014c5968a30e69dabab5c9944 Changes
+SHA1 2ddb8aaddaab80378f58f33eb18988b56cff3331 MANIFEST
+SHA1 4397698bb19226bd07bf3bc4b9bef6f39ae74dbe META.yml
+SHA1 472219a5da5d1b3f1aea971fca777d38186eb35a Makefile.PL
+SHA1 7a48bdb088744a362471940e5fefadb0a0a8f2a9 README
 SHA1 8fa2da862096848e81981877d57416372bd4d3bb doc/images/extension.png
 SHA1 22f0258d89ba41f802547a7da37045e751879125 doc/images/noextension.png
-SHA1 6b9818ecec06266d8ccbb9aa9e5c8001c821e23d etc/callback_before_localization.diff
 SHA1 82caf70842933c501b8d1e91562c1bbaaa1dac49 html/Callbacks/LocalDateHeader/Elements/ShowMessageHeaders/BeforeLocalization
 SHA1 84904afd4fd88d227ba7acc09535bc186e0e3965 html/Callbacks/LocalDateHeader/Ticket/Elements/ShowMessageHeaders/BeforeLocalization
-SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
-SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
-SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
-SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
-SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
-SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
-SHA1 3f9e335a7fd57b7e27d7f6e4bdc7076dcc6dfc8c inc/Module/Install/RTx.pm
+SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
+SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
+SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
+SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 d44d96acd20793306dd201030c688e2a7d3083ee inc/Module/Install/Include.pm
+SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
+SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
+SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
+SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
-SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 a2cb3ac75cbdcc9063b75fe99429feb0fa57bc26 lib/RT/Extension/LocalDateHeader.pm
+SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
+SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
+SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
+SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
+SHA1 d08442da7d977baa0400f9f72597e876e756c6af lib/RT/Extension/LocalDateHeader.pm
 SHA1 b43260bea2420eb7c263187a512f9796e7facac7 xt/99changes.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (Darwin)
-Comment: GPGTools - http://gpgtools.org
+Version: GnuPG v1
 
-iEYEARECAAYFAlMiRQcACgkQ0+gKWp5CJQojNwCgo/fKWxnr65IvxjmcRUn2dTeX
-EpEAoNnzizBNDbQLAy14+WMupaid15au
-=VpU/
+iEYEARECAAYFAlSQwe0ACgkQMflWJZZAbqBP+QCeMO39kqMfTf4fCWc+pdLvh46D
+lkAAoJu7WljJR+f2oyj7Bf5ZUsics/lg
+=+AIv
 -----END PGP SIGNATURE-----
